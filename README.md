@@ -1,1 +1,1 @@
-# video_chat
+# image-gallery
