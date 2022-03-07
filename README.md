@@ -7,6 +7,7 @@
 Notes:
 
 1. Typography
+
 - h1 to h6
 - variant - subtitle1, subtitle2 > h6 tags
 - variant - body1, body2 > p tags
@@ -15,8 +16,15 @@ Notes:
 - gutterBottom = gives margin bottom
 
 2. Button
+
 - variant - text, contained, outlined
 - color - primary, secondary, error, warning, info, success
 - size - small, medium, large
 - icons: - startIcon, endIcon, IconButton
 - others - disableElevation, disableRipple
+
+a. ButtonGroup
+
+- orientation - vertical
+- aria-label recommended
+- variant, size, color
