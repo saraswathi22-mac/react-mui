@@ -13,3 +13,10 @@ Notes:
 - variant - body1 = without variant
 - component - h1 = irrespective of variant, h1 tag is displayed
 - gutterBottom = gives margin bottom
+
+2. Button
+- variant - text, contained, outlined
+- color - primary, secondary, error, warning, info, success
+- size - small, medium, large
+- icons: - startIcon, endIcon, IconButton
+- others - disableElevation, disableRipple
