@@ -1,1 +1,1 @@
-# image-gallery
+# react-material-ui
