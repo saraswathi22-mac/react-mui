@@ -33,3 +33,8 @@ b. ToggleButton
 - ToggleButtonGroup, ToggleButton
 - Same as ButtonGroup contents above
 - exclusive
+
+3. TextField (Forms)
+- variant - outlined, filled, standard, 
+- required, error, helpertext, disabled, type
+- InputProps - startAdornment, endAdornment
