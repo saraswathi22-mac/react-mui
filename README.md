@@ -42,3 +42,5 @@ b. ToggleButton
 4. Select
 
 5. RadioButton
+
+6. CheckBox
