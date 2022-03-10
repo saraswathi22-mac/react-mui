@@ -44,3 +44,5 @@ b. ToggleButton
 5. RadioButton
 
 6. CheckBox
+
+7. Switch
