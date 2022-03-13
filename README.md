@@ -48,3 +48,5 @@ b. ToggleButton
 7. Switch
 
 8. Rating
+
+9. Autocomplete
