@@ -46,3 +46,5 @@ b. ToggleButton
 6. CheckBox
 
 7. Switch
+
+8. Rating
