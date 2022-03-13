@@ -1,5 +1,5 @@
 import './App.css';
-import { MuiAutocomplete } from './components/9_Autocomplete';
+import { MuiBox } from './components/10_Box';
 // import { MuiTypography } from './components/1_Typography';
 // import { MuiButton } from './components/2_Button';
 // import { MuiTextField } from './components/3_TextField';
@@ -8,6 +8,7 @@ import { MuiAutocomplete } from './components/9_Autocomplete';
 // import { MuiCheckBox } from './components/6_CheckBox';
 // import { MuiSwitch } from './components/7_Switch';
 // import { MuiRating } from './components/8_Rating';
+// import { MuiAutocomplete } from './components/9_Autocomplete';
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
       {/* <MuiCheckBox /> */}
       {/* <MuiSwitch /> */}
       {/* <MuiRating /> */}
-      <MuiAutocomplete />
+      {/* <MuiAutocomplete /> */}
+      <MuiBox />
     </div>
   );
 }
