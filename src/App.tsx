@@ -9,7 +9,8 @@ import './App.css';
 // import { MuiRating } from './components/8_Rating';
 // import { MuiAutocomplete } from './components/9_Autocomplete';
 // import { MuiBox } from './components/10_Box';
-import { MuiStack } from './components/11_Stack';
+// import { MuiStack } from './components/11_Stack';
+import { MuiGrid } from './components/12_Grid';
 
 function App() {
   return (
@@ -24,7 +25,8 @@ function App() {
       {/* <MuiRating /> */}
       {/* <MuiAutocomplete /> */}
       {/* <MuiBox /> */}
-      <MuiStack />
+      {/* <MuiStack /> */}
+      <MuiGrid />
     </div>
   );
 }
