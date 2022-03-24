@@ -67,3 +67,6 @@ b. ToggleButton
 
 17. Navbar
 // Remove body, App styles from App.css
+
+18. Menu
+// Same as 17
