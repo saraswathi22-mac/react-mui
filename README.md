@@ -64,3 +64,6 @@ b. ToggleButton
 15. Accordion
 
 16. ImageList
+
+17. Navbar
+// Remove body, App styles from App.css
