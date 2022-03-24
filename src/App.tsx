@@ -16,9 +16,10 @@ import './App.css';
 // import { MuiAccordion } from './components/15_Accordion';
 // import { MuiImageList } from './components/16_ImageList';
 // import { MuiNavbar } from './components/17_Navbar';
-import { MuiMenu } from './components/18_Menu';
+// import { MuiMenu } from './components/18_Menu';
 // import { MuiLink } from './components/19_Link';
-import { MuiBreadcrumbs } from './components/20_Breadcrumbs';
+// import { MuiBreadcrumbs } from './components/20_Breadcrumbs';
+import { MuiDrawer } from './components/21_Drawer';
 
 function App() {
   return (
@@ -40,9 +41,10 @@ function App() {
       {/* <MuiAccordion /> */}
       {/* <MuiImageList /> */}
       {/* <MuiNavbar /> */}
-      <MuiMenu />
+      {/* <MuiMenu /> */}
       {/* <MuiLink /> */}
-      <MuiBreadcrumbs />
+      {/* <MuiBreadcrumbs /> */}
+      <MuiDrawer />
     </div>
   );
 }
