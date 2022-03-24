@@ -17,6 +17,7 @@ import './App.css';
 // import { MuiImageList } from './components/16_ImageList';
 // import { MuiNavbar } from './components/17_Navbar';
 import { MuiMenu } from './components/18_Menu';
+import { MuiLink } from './components/19_Link';
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
       {/* <MuiImageList /> */}
       {/* <MuiNavbar /> */}
       <MuiMenu />
+      <MuiLink />
     </div>
   );
 }
