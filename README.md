@@ -76,3 +76,5 @@ b. ToggleButton
 20. Breadcrumbs
 
 21. Drawer
+
+22. Speed Dial
