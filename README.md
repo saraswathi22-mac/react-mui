@@ -86,3 +86,5 @@ b. ToggleButton
 25. Badge
 
 26. List
+
+27. Chip
