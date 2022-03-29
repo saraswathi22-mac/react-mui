@@ -80,3 +80,5 @@ b. ToggleButton
 22. Speed Dial
 
 23. Button Navigation
+
+24. Avatar
