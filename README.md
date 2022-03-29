@@ -82,3 +82,5 @@ b. ToggleButton
 23. Button Navigation
 
 24. Avatar
+
+25. Badge
