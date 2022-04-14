@@ -96,3 +96,5 @@ b. ToggleButton
 30. Alert
 
 31. Snackbar
+
+32. Dialog
