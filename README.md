@@ -92,3 +92,7 @@ b. ToggleButton
 28. Tooltip
 
 29. Table
+
+30. Alert
+
+31. Snackbar
