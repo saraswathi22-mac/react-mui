@@ -102,3 +102,5 @@ b. ToggleButton
 33. Progress
 
 34. Skeleton
+
+35. Loading Button
