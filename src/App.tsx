@@ -1,4 +1,4 @@
-import './App.css';
+import "./App.css";
 // import { MuiTypography } from './components/1_Typography';
 // import { MuiButton } from './components/2_Button';
 // import { MuiTextField } from './components/3_TextField';
@@ -33,7 +33,8 @@ import './App.css';
 // import { MuiDialog } from './components/32_Dialog';
 // import { MuiProgress } from './components/33_Progress';
 // import { MuiSkeleton } from './components/34_Skeleton';
-import { MuiLoadingButton } from './components/35_LoadingButton';
+// import { MuiLoadingButton } from './components/35_LoadingButton';
+import { MuiTabs } from "./components/36_Tabs";
 
 function App() {
   return (
@@ -72,7 +73,8 @@ function App() {
       {/* <MuiDialog /> */}
       {/* <MuiProgress /> */}
       {/* <MuiSkeleton /> */}
-      <MuiLoadingButton />
+      {/* <MuiLoadingButton /> */}
+      <MuiTabs />
     </div>
   );
 }
