@@ -100,3 +100,5 @@ b. ToggleButton
 32. Dialog
 
 33. Progress
+
+34. Skeleton
